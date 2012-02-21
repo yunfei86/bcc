@@ -1,0 +1,300 @@
+##gff-version	3
+##feature-ontology	so.obo
+##attribute-ontology	gff3_attributes.obo
+##sequence-region	psu|M76611	1	5967
+##sequence-region	psu|PFC10_API_IRAB	1	34242
+##sequence-region	psu|Pf3D7_01	1	643292
+##sequence-region	psu|Pf3D7_02	1	947102
+##sequence-region	psu|Pf3D7_03	1	1060087
+##sequence-region	psu|Pf3D7_04	1	1204112
+##sequence-region	psu|Pf3D7_05	1	1343552
+##sequence-region	psu|Pf3D7_06	1	1418244
+##sequence-region	psu|Pf3D7_07	1	1501717
+##sequence-region	psu|Pf3D7_08	1	1419563
+##sequence-region	psu|Pf3D7_09	1	1541723
+##sequence-region	psu|Pf3D7_10	1	1687655
+##sequence-region	psu|Pf3D7_11	1	2038337
+##sequence-region	psu|Pf3D7_12	1	2271478
+##sequence-region	psu|Pf3D7_13	1	2895605
+##sequence-region	psu|Pf3D7_14	1	3291871
+psu|M76611	EuPathDB	supercontig	1	5967	.	+	.	ID=psu|M76611;Name=M76611;description=M76611;size=5967;web_id=M76611;molecule_type=dsDNA;organism_name=Plasmodium falciparum;translation_table=11;topology=linear;localization=nuclear;Dbxref=EuPathDB_PlasmoDB:M76611,taxon:36329
+psu|PFC10_API_IRAB	EuPathDB	supercontig	1	34242	.	+	.	ID=psu|PFC10_API_IRAB;Name=PFC10_API_IRAB;description=PFC10_API_IRAB;size=34242;web_id=PFC10_API_IRAB;molecule_type=dsDNA;organism_name=Plasmodium falciparum;translation_table=11;topology=linear;localization=nuclear;Dbxref=EuPathDB_PlasmoDB:PFC10_API_IRAB,taxon:36329
+psu|Pf3D7_01	EuPathDB	supercontig	1	643292	.	+	.	ID=psu|Pf3D7_01;Name=Pf3D7_01;description=Pf3D7_01;size=643292;web_id=Pf3D7_01;molecule_type=dsDNA;organism_name=Plasmodium falciparum;translation_table=11;topology=linear;localization=nuclear;Dbxref=EuPathDB_PlasmoDB:Pf3D7_01,taxon:36329
+psu|Pf3D7_02	EuPathDB	supercontig	1	947102	.	+	.	ID=psu|Pf3D7_02;Name=Pf3D7_02;description=Pf3D7_02;size=947102;web_id=Pf3D7_02;molecule_type=dsDNA;organism_name=Plasmodium falciparum;translation_table=11;topology=linear;localization=nuclear;Dbxref=EuPathDB_PlasmoDB:Pf3D7_02,taxon:36329
+psu|Pf3D7_03	EuPathDB	supercontig	1	1060087	.	+	.	ID=psu|Pf3D7_03;Name=Pf3D7_03;description=Pf3D7_03;size=1060087;web_id=Pf3D7_03;molecule_type=dsDNA;organism_name=Plasmodium falciparum;translation_table=11;topology=linear;localization=nuclear;Dbxref=EuPathDB_PlasmoDB:Pf3D7_03,taxon:36329
+psu|Pf3D7_04	EuPathDB	supercontig	1	1204112	.	+	.	ID=psu|Pf3D7_04;Name=Pf3D7_04;description=Pf3D7_04;size=1204112;web_id=Pf3D7_04;molecule_type=dsDNA;organism_name=Plasmodium falciparum;translation_table=11;topology=linear;localization=nuclear;Dbxref=EuPathDB_PlasmoDB:Pf3D7_04,taxon:36329
+psu|Pf3D7_05	EuPathDB	supercontig	1	1343552	.	+	.	ID=psu|Pf3D7_05;Name=Pf3D7_05;description=Pf3D7_05;size=1343552;web_id=Pf3D7_05;molecule_type=dsDNA;organism_name=Plasmodium falciparum;translation_table=11;topology=linear;localization=nuclear;Dbxref=EuPathDB_PlasmoDB:Pf3D7_05,taxon:36329
+psu|Pf3D7_06	EuPathDB	supercontig	1	1418244	.	+	.	ID=psu|Pf3D7_06;Name=Pf3D7_06;description=Pf3D7_06;size=1418244;web_id=Pf3D7_06;molecule_type=dsDNA;organism_name=Plasmodium falciparum;translation_table=11;topology=linear;localization=nuclear;Dbxref=EuPathDB_PlasmoDB:Pf3D7_06,taxon:36329
+psu|Pf3D7_07	EuPathDB	supercontig	1	1501717	.	+	.	ID=psu|Pf3D7_07;Name=Pf3D7_07;description=Pf3D7_07;size=1501717;web_id=Pf3D7_07;molecule_type=dsDNA;organism_name=Plasmodium falciparum;translation_table=11;topology=linear;localization=nuclear;Dbxref=EuPathDB_PlasmoDB:Pf3D7_07,taxon:36329
+psu|Pf3D7_08	EuPathDB	supercontig	1	1419563	.	+	.	ID=psu|Pf3D7_08;Name=Pf3D7_08;description=Pf3D7_08;size=1419563;web_id=Pf3D7_08;molecule_type=dsDNA;organism_name=Plasmodium falciparum;translation_table=11;topology=linear;localization=nuclear;Dbxref=EuPathDB_PlasmoDB:Pf3D7_08,taxon:36329
+psu|Pf3D7_09	EuPathDB	supercontig	1	1541723	.	+	.	ID=psu|Pf3D7_09;Name=Pf3D7_09;description=Pf3D7_09;size=1541723;web_id=Pf3D7_09;molecule_type=dsDNA;organism_name=Plasmodium falciparum;translation_table=11;topology=linear;localization=nuclear;Dbxref=EuPathDB_PlasmoDB:Pf3D7_09,taxon:36329
+psu|Pf3D7_10	EuPathDB	supercontig	1	1687655	.	+	.	ID=psu|Pf3D7_10;Name=Pf3D7_10;description=Pf3D7_10;size=1687655;web_id=Pf3D7_10;molecule_type=dsDNA;organism_name=Plasmodium falciparum;translation_table=11;topology=linear;localization=nuclear;Dbxref=EuPathDB_PlasmoDB:Pf3D7_10,taxon:36329
+psu|Pf3D7_11	EuPathDB	supercontig	1	2038337	.	+	.	ID=psu|Pf3D7_11;Name=Pf3D7_11;description=Pf3D7_11;size=2038337;web_id=Pf3D7_11;molecule_type=dsDNA;organism_name=Plasmodium falciparum;translation_table=11;topology=linear;localization=nuclear;Dbxref=EuPathDB_PlasmoDB:Pf3D7_11,taxon:36329
+psu|Pf3D7_12	EuPathDB	supercontig	1	2271478	.	+	.	ID=psu|Pf3D7_12;Name=Pf3D7_12;description=Pf3D7_12;size=2271478;web_id=Pf3D7_12;molecule_type=dsDNA;organism_name=Plasmodium falciparum;translation_table=11;topology=linear;localization=nuclear;Dbxref=EuPathDB_PlasmoDB:Pf3D7_12,taxon:36329
+psu|Pf3D7_13	EuPathDB	supercontig	1	2895605	.	+	.	ID=psu|Pf3D7_13;Name=Pf3D7_13;description=Pf3D7_13;size=2895605;web_id=Pf3D7_13;molecule_type=dsDNA;organism_name=Plasmodium falciparum;translation_table=11;topology=linear;localization=nuclear;Dbxref=EuPathDB_PlasmoDB:Pf3D7_13,taxon:36329
+psu|Pf3D7_14	EuPathDB	supercontig	1	3291871	.	+	.	ID=psu|Pf3D7_14;Name=Pf3D7_14;description=Pf3D7_14;size=3291871;web_id=Pf3D7_14;molecule_type=dsDNA;organism_name=Plasmodium falciparum;translation_table=11;topology=linear;localization=nuclear;Dbxref=EuPathDB_PlasmoDB:Pf3D7_14,taxon:36329
+psu|Pf3D7_14	EuPathDB	gene	1546167	1546240	.	+	.	ID=psu|1396.pre-tRNA-Met-1;Name=1396.pre-tRNA-Met-1;description=1396.pre-tRNA-Met-1;size=74;web_id=1396.pre-tRNA-Met-1;locus_tag=1396.pre-tRNA-Met-1;size=74
+psu|Pf3D7_14	EuPathDB	tRNA	1546167	1546240	.	+	.	ID=rna_1396.pre-tRNA-Met-1-1;Name=1396.pre-tRNA-Met-1-1;description=1396.pre-tRNA-Met-1-1;size=74;Parent=psu|1396.pre-tRNA-Met-1;Dbxref=EuPathDB_PlasmoDB:1396.pre-tRNA-Met-1,taxon:36329
+psu|Pf3D7_14	EuPathDB	exon	1546167	1546240	.	+	.	ID=exon_1396.pre-tRNA-Met-1-1;Name=exon;description=exon;size=74;Parent=rna_1396.pre-tRNA-Met-1-1
+psu|Pf3D7_14	EuPathDB	gene	778091	778162	.	+	.	ID=psu|1396.pre-tRNA-Pro-1;Name=1396.pre-tRNA-Pro-1;description=1396.pre-tRNA-Pro-1;size=72;web_id=1396.pre-tRNA-Pro-1;locus_tag=1396.pre-tRNA-Pro-1;size=72
+psu|Pf3D7_14	EuPathDB	tRNA	778091	778162	.	+	.	ID=rna_1396.pre-tRNA-Pro-1-1;Name=1396.pre-tRNA-Pro-1-1;description=1396.pre-tRNA-Pro-1-1;size=72;Parent=psu|1396.pre-tRNA-Pro-1;Dbxref=EuPathDB_PlasmoDB:1396.pre-tRNA-Pro-1,taxon:36329
+psu|Pf3D7_14	EuPathDB	exon	778091	778162	.	+	.	ID=exon_1396.pre-tRNA-Pro-1-1;Name=exon;description=exon;size=72;Parent=rna_1396.pre-tRNA-Pro-1-1
+psu|Pf3D7_11	EuPathDB	gene	143354	143426	.	+	.	ID=psu|1399.pre-tRNA-Gly-1;Name=1399.pre-tRNA-Gly-1;description=1399.pre-tRNA-Gly-1;size=73;web_id=1399.pre-tRNA-Gly-1;locus_tag=1399.pre-tRNA-Gly-1;size=73
+psu|Pf3D7_11	EuPathDB	tRNA	143354	143426	.	+	.	ID=rna_1399.pre-tRNA-Gly-1-1;Name=1399.pre-tRNA-Gly-1-1;description=1399.pre-tRNA-Gly-1-1;size=73;Parent=psu|1399.pre-tRNA-Gly-1;Dbxref=EuPathDB_PlasmoDB:1399.pre-tRNA-Gly-1,taxon:36329
+psu|Pf3D7_11	EuPathDB	exon	143354	143426	.	+	.	ID=exon_1399.pre-tRNA-Gly-1-1;Name=exon;description=exon;size=73;Parent=rna_1399.pre-tRNA-Gly-1-1
+psu|Pf3D7_11	EuPathDB	gene	144842	144940	.	-	.	ID=psu|1399.pre-tRNA-Leu-1;Name=1399.pre-tRNA-Leu-1;description=1399.pre-tRNA-Leu-1;size=99;web_id=1399.pre-tRNA-Leu-1;locus_tag=1399.pre-tRNA-Leu-1;size=99
+psu|Pf3D7_11	EuPathDB	tRNA	144842	144940	.	-	.	ID=rna_1399.pre-tRNA-Leu-1-1;Name=1399.pre-tRNA-Leu-1-1;description=1399.pre-tRNA-Leu-1-1;size=99;Parent=psu|1399.pre-tRNA-Leu-1;Dbxref=EuPathDB_PlasmoDB:1399.pre-tRNA-Leu-1,taxon:36329
+psu|Pf3D7_11	EuPathDB	exon	144842	144940	.	-	.	ID=exon_1399.pre-tRNA-Leu-1-1;Name=exon;description=exon;size=99;Parent=rna_1399.pre-tRNA-Leu-1-1
+psu|Pf3D7_02	EuPathDB	gene	164269	164340	.	+	.	ID=psu|1400.pre-tRNA-Gln-1;Name=1400.pre-tRNA-Gln-1;description=1400.pre-tRNA-Gln-1;size=72;web_id=1400.pre-tRNA-Gln-1;locus_tag=1400.pre-tRNA-Gln-1;size=72
+psu|Pf3D7_02	EuPathDB	tRNA	164269	164340	.	+	.	ID=rna_1400.pre-tRNA-Gln-1-1;Name=1400.pre-tRNA-Gln-1-1;description=1400.pre-tRNA-Gln-1-1;size=72;Parent=psu|1400.pre-tRNA-Gln-1;Dbxref=EuPathDB_PlasmoDB:1400.pre-tRNA-Gln-1,taxon:36329
+psu|Pf3D7_02	EuPathDB	exon	164269	164340	.	+	.	ID=exon_1400.pre-tRNA-Gln-1-1;Name=exon;description=exon;size=72;Parent=rna_1400.pre-tRNA-Gln-1-1
+psu|Pf3D7_12	EuPathDB	gene	2113716	2113787	.	-	.	ID=psu|2277.pre-tRNA-Glu-1;Name=2277.pre-tRNA-Glu-1;description=2277.pre-tRNA-Glu-1;size=72;web_id=2277.pre-tRNA-Glu-1;locus_tag=2277.pre-tRNA-Glu-1;size=72
+psu|Pf3D7_12	EuPathDB	tRNA	2113716	2113787	.	-	.	ID=rna_2277.pre-tRNA-Glu-1-1;Name=2277.pre-tRNA-Glu-1-1;description=2277.pre-tRNA-Glu-1-1;size=72;Parent=psu|2277.pre-tRNA-Glu-1;Dbxref=EuPathDB_PlasmoDB:2277.pre-tRNA-Glu-1,taxon:36329
+psu|Pf3D7_12	EuPathDB	exon	2113716	2113787	.	-	.	ID=exon_2277.pre-tRNA-Glu-1-1;Name=exon;description=exon;size=72;Parent=rna_2277.pre-tRNA-Glu-1-1
+psu|Pf3D7_12	EuPathDB	gene	666877	666948	.	+	.	ID=psu|2277.pre-tRNA-Pro-1;Name=2277.pre-tRNA-Pro-1;description=2277.pre-tRNA-Pro-1;size=72;web_id=2277.pre-tRNA-Pro-1;locus_tag=2277.pre-tRNA-Pro-1;size=72
+psu|Pf3D7_12	EuPathDB	tRNA	666877	666948	.	+	.	ID=rna_2277.pre-tRNA-Pro-1-1;Name=2277.pre-tRNA-Pro-1-1;description=2277.pre-tRNA-Pro-1-1;size=72;Parent=psu|2277.pre-tRNA-Pro-1;Dbxref=EuPathDB_PlasmoDB:2277.pre-tRNA-Pro-1,taxon:36329
+psu|Pf3D7_12	EuPathDB	exon	666877	666948	.	+	.	ID=exon_2277.pre-tRNA-Pro-1-1;Name=exon;description=exon;size=72;Parent=rna_2277.pre-tRNA-Pro-1-1
+psu|Pf3D7_12	EuPathDB	gene	2112864	2112936	.	+	.	ID=psu|2277.pre-tRNA-Val-1;Name=2277.pre-tRNA-Val-1;description=2277.pre-tRNA-Val-1;size=73;web_id=2277.pre-tRNA-Val-1;locus_tag=2277.pre-tRNA-Val-1;size=73
+psu|Pf3D7_12	EuPathDB	tRNA	2112864	2112936	.	+	.	ID=rna_2277.pre-tRNA-Val-1-1;Name=2277.pre-tRNA-Val-1-1;description=2277.pre-tRNA-Val-1-1;size=73;Parent=psu|2277.pre-tRNA-Val-1;Dbxref=EuPathDB_PlasmoDB:2277.pre-tRNA-Val-1,taxon:36329
+psu|Pf3D7_12	EuPathDB	exon	2112864	2112936	.	+	.	ID=exon_2277.pre-tRNA-Val-1-1;Name=exon;description=exon;size=73;Parent=rna_2277.pre-tRNA-Val-1-1
+psu|Pf3D7_11	EuPathDB	gene	1925939	1933147	.	+	.	ID=psu|MAL11_rRNA;Name=MAL11_rRNA;description=MAL11_rRNA;size=7209;web_id=MAL11_rRNA;locus_tag=MAL11_rRNA;size=7209
+psu|Pf3D7_11	EuPathDB	rRNA	1925939	1933147	.	+	.	ID=rna_MAL11_rRNA-1;Name=MAL11_rRNA-1;description=MAL11_rRNA-1;size=7209;Parent=psu|MAL11_rRNA;Dbxref=EuPathDB_PlasmoDB:MAL11_rRNA,taxon:36329
+psu|Pf3D7_11	EuPathDB	exon	1925939	1933147	.	+	.	ID=exon_MAL11_rRNA-1;Name=exon;description=exon;size=7209;Parent=rna_MAL11_rRNA-1
+psu|Pf3D7_13	EuPathDB	gene	21467	28890	.	+	.	ID=psu|MAL13P1.1;Name=MAL13P1.1;description=erythrocyte+membrane+protein+1%2C+PfEMP1;size=7424;web_id=MAL13P1.1;locus_tag=MAL13P1.1;size=7424;Alias=PF13_0001,VAR
+psu|Pf3D7_13	EuPathDB	mRNA	21467	28890	.	+	.	ID=rna_MAL13P1.1-1;Name=MAL13P1.1-1;description=erythrocyte+membrane+protein+1%2C+PfEMP1;size=7424;Parent=psu|MAL13P1.1;Ontology_term=GO:0009405,GO:0016021,GO:0004872;Dbxref=EuPathDB_PlasmoDB:MAL13P1.1,NCBI_gi:124512764,NCBI_gi:23615155,taxon:36329
+psu|Pf3D7_13	EuPathDB	CDS	21467	26641	.	+	0	ID=cds_MAL13P1.1-1;Name=cds;description=.;size=5175;Parent=rna_MAL13P1.1-1
+psu|Pf3D7_13	EuPathDB	CDS	27577	28890	.	+	0	ID=cds_MAL13P1.1-1;Name=cds;description=.;size=1314;Parent=rna_MAL13P1.1-1
+psu|Pf3D7_13	EuPathDB	exon	21467	26641	.	+	.	ID=exon_MAL13P1.1-1;Name=exon;description=exon;size=5175;Parent=rna_MAL13P1.1-1
+psu|Pf3D7_13	EuPathDB	exon	27577	28890	.	+	.	ID=exon_MAL13P1.1-2;Name=exon;description=exon;size=1314;Parent=rna_MAL13P1.1-1
+psu|Pf3D7_13	EuPathDB	gene	768250	769851	.	+	.	ID=psu|MAL13P1.100;Name=MAL13P1.100;description=conserved+Plasmodium+protein%2C+unknown+function;size=1602;web_id=MAL13P1.100;locus_tag=MAL13P1.100;size=1602
+psu|Pf3D7_13	EuPathDB	mRNA	768250	769851	.	+	.	ID=rna_MAL13P1.100-1;Name=MAL13P1.100-1;description=conserved+Plasmodium+protein%2C+unknown+function;size=1602;Parent=psu|MAL13P1.100;Ontology_term=GO:0045454;Dbxref=EuPathDB_PlasmoDB:MAL13P1.100,NCBI_gi:225631962,NCBI_gi:296005395,taxon:36329
+psu|Pf3D7_13	EuPathDB	CDS	768250	769851	.	+	0	ID=cds_MAL13P1.100-1;Name=cds;description=.;size=1602;Parent=rna_MAL13P1.100-1
+psu|Pf3D7_13	EuPathDB	exon	768250	769851	.	+	.	ID=exon_MAL13P1.100-1;Name=exon;description=exon;size=1602;Parent=rna_MAL13P1.100-1
+psu|Pf3D7_13	EuPathDB	gene	770847	773096	.	-	.	ID=psu|MAL13P1.102;Name=MAL13P1.102;description=conserved+Plasmodium+protein%2C+unknown+function;size=2250;web_id=MAL13P1.102;locus_tag=MAL13P1.102;size=2250
+psu|Pf3D7_13	EuPathDB	mRNA	770847	773096	.	-	.	ID=rna_MAL13P1.102-1;Name=MAL13P1.102-1;description=conserved+Plasmodium+protein%2C+unknown+function;size=2250;Parent=psu|MAL13P1.102;Ontology_term=GO:0005737,GO:0005524;Dbxref=EuPathDB_PlasmoDB:MAL13P1.102,NCBI_gi:124513134,NCBI_gi:23615340,taxon:36329
+psu|Pf3D7_13	EuPathDB	CDS	770847	773096	.	-	0	ID=cds_MAL13P1.102-1;Name=cds;description=.;size=2250;Parent=rna_MAL13P1.102-1
+psu|Pf3D7_13	EuPathDB	exon	770847	773096	.	-	.	ID=exon_MAL13P1.102-1;Name=exon;description=exon;size=2250;Parent=rna_MAL13P1.102-1
+psu|Pf3D7_13	EuPathDB	gene	801913	806230	.	+	.	ID=psu|MAL13P1.103;Name=MAL13P1.103;description=conserved+Plasmodium+protein%2C+unknown+function;size=4318;web_id=MAL13P1.103;locus_tag=MAL13P1.103;size=4318
+psu|Pf3D7_13	EuPathDB	mRNA	801913	806230	.	+	.	ID=rna_MAL13P1.103-1;Name=MAL13P1.103-1;description=conserved+Plasmodium+protein%2C+unknown+function;size=4318;Parent=psu|MAL13P1.103;Dbxref=EuPathDB_PlasmoDB:MAL13P1.103,NCBI_gi:124513148,NCBI_gi:23615347,taxon:36329
+psu|Pf3D7_13	EuPathDB	CDS	801913	804064	.	+	0	ID=cds_MAL13P1.103-1;Name=cds;description=.;size=2152;Parent=rna_MAL13P1.103-1
+psu|Pf3D7_13	EuPathDB	CDS	804194	804264	.	+	2	ID=cds_MAL13P1.103-1;Name=cds;description=.;size=71;Parent=rna_MAL13P1.103-1
+psu|Pf3D7_13	EuPathDB	CDS	804423	804569	.	+	0	ID=cds_MAL13P1.103-1;Name=cds;description=.;size=147;Parent=rna_MAL13P1.103-1
+psu|Pf3D7_13	EuPathDB	CDS	804663	804788	.	+	0	ID=cds_MAL13P1.103-1;Name=cds;description=.;size=126;Parent=rna_MAL13P1.103-1
+psu|Pf3D7_13	EuPathDB	CDS	804950	805115	.	+	0	ID=cds_MAL13P1.103-1;Name=cds;description=.;size=166;Parent=rna_MAL13P1.103-1
+psu|Pf3D7_13	EuPathDB	CDS	805197	805277	.	+	2	ID=cds_MAL13P1.103-1;Name=cds;description=.;size=81;Parent=rna_MAL13P1.103-1
+psu|Pf3D7_13	EuPathDB	CDS	805391	805476	.	+	2	ID=cds_MAL13P1.103-1;Name=cds;description=.;size=86;Parent=rna_MAL13P1.103-1
+psu|Pf3D7_13	EuPathDB	CDS	805587	805642	.	+	0	ID=cds_MAL13P1.103-1;Name=cds;description=.;size=56;Parent=rna_MAL13P1.103-1
+psu|Pf3D7_13	EuPathDB	CDS	805730	805811	.	+	1	ID=cds_MAL13P1.103-1;Name=cds;description=.;size=82;Parent=rna_MAL13P1.103-1
+psu|Pf3D7_13	EuPathDB	CDS	805985	806230	.	+	0	ID=cds_MAL13P1.103-1;Name=cds;description=.;size=246;Parent=rna_MAL13P1.103-1
+psu|Pf3D7_13	EuPathDB	exon	801913	804064	.	+	.	ID=exon_MAL13P1.103-1;Name=exon;description=exon;size=2152;Parent=rna_MAL13P1.103-1
+psu|Pf3D7_13	EuPathDB	exon	804194	804264	.	+	.	ID=exon_MAL13P1.103-2;Name=exon;description=exon;size=71;Parent=rna_MAL13P1.103-1
+psu|Pf3D7_13	EuPathDB	exon	804423	804569	.	+	.	ID=exon_MAL13P1.103-3;Name=exon;description=exon;size=147;Parent=rna_MAL13P1.103-1
+psu|Pf3D7_13	EuPathDB	exon	804663	804788	.	+	.	ID=exon_MAL13P1.103-4;Name=exon;description=exon;size=126;Parent=rna_MAL13P1.103-1
+psu|Pf3D7_13	EuPathDB	exon	804950	805115	.	+	.	ID=exon_MAL13P1.103-5;Name=exon;description=exon;size=166;Parent=rna_MAL13P1.103-1
+psu|Pf3D7_13	EuPathDB	exon	805197	805277	.	+	.	ID=exon_MAL13P1.103-6;Name=exon;description=exon;size=81;Parent=rna_MAL13P1.103-1
+psu|Pf3D7_13	EuPathDB	exon	805391	805476	.	+	.	ID=exon_MAL13P1.103-7;Name=exon;description=exon;size=86;Parent=rna_MAL13P1.103-1
+psu|Pf3D7_13	EuPathDB	exon	805587	805642	.	+	.	ID=exon_MAL13P1.103-8;Name=exon;description=exon;size=56;Parent=rna_MAL13P1.103-1
+psu|Pf3D7_13	EuPathDB	exon	805730	805811	.	+	.	ID=exon_MAL13P1.103-9;Name=exon;description=exon;size=82;Parent=rna_MAL13P1.103-1
+psu|Pf3D7_13	EuPathDB	exon	805985	806230	.	+	.	ID=exon_MAL13P1.103-10;Name=exon;description=exon;size=246;Parent=rna_MAL13P1.103-1
+psu|Pf3D7_13	EuPathDB	gene	816023	818599	.	-	.	ID=psu|MAL13P1.105;Name=MAL13P1.105;description=ser%2Fthr+protein+phosphatase+2A+regulatory+subunit+A%2C+putative;size=2577;web_id=MAL13P1.105;locus_tag=MAL13P1.105;size=2577
+psu|Pf3D7_13	EuPathDB	mRNA	816023	818599	.	-	.	ID=rna_MAL13P1.105-1;Name=MAL13P1.105-1;description=ser%2Fthr+protein+phosphatase+2A+regulatory+subunit+A%2C+putative;size=2577;Parent=psu|MAL13P1.105;Ontology_term=GO:0005488;Dbxref=EuPathDB_PlasmoDB:MAL13P1.105,EC:3.1.3.16,NCBI_gi:124513154,NCBI_gi:23615350,taxon:36329
+psu|Pf3D7_13	EuPathDB	CDS	816023	818599	.	-	0	ID=cds_MAL13P1.105-1;Name=cds;description=.;size=2577;Parent=rna_MAL13P1.105-1
+psu|Pf3D7_13	EuPathDB	exon	816023	818599	.	-	.	ID=exon_MAL13P1.105-1;Name=exon;description=exon;size=2577;Parent=rna_MAL13P1.105-1
+psu|Pf3D7_13	EuPathDB	gene	820942	821379	.	+	.	ID=psu|MAL13P1.106;Name=MAL13P1.106;description=probable+protein%2C+unknown+function;size=438;web_id=MAL13P1.106;locus_tag=MAL13P1.106;size=438
+psu|Pf3D7_13	EuPathDB	mRNA	820942	821379	.	+	.	ID=rna_MAL13P1.106-1;Name=MAL13P1.106-1;description=probable+protein%2C+unknown+function;size=438;Parent=psu|MAL13P1.106;Dbxref=EuPathDB_PlasmoDB:MAL13P1.106,NCBI_gi:124513156,NCBI_gi:23615351,taxon:36329
+psu|Pf3D7_13	EuPathDB	CDS	820942	821379	.	+	0	ID=cds_MAL13P1.106-1;Name=cds;description=.;size=438;Parent=rna_MAL13P1.106-1
+psu|Pf3D7_13	EuPathDB	exon	820942	821379	.	+	.	ID=exon_MAL13P1.106-1;Name=exon;description=exon;size=438;Parent=rna_MAL13P1.106-1
+psu|Pf3D7_13	EuPathDB	gene	822279	826739	.	-	.	ID=psu|MAL13P1.107;Name=MAL13P1.107;description=conserved+Plasmodium+protein%2C+unknown+function;size=4461;web_id=MAL13P1.107;locus_tag=MAL13P1.107;size=4461
+psu|Pf3D7_13	EuPathDB	mRNA	822279	826739	.	-	.	ID=rna_MAL13P1.107-1;Name=MAL13P1.107-1;description=conserved+Plasmodium+protein%2C+unknown+function;size=4461;Parent=psu|MAL13P1.107;Dbxref=EuPathDB_PlasmoDB:MAL13P1.107,NCBI_gi:124513158,NCBI_gi:23615352,taxon:36329
+psu|Pf3D7_13	EuPathDB	CDS	822279	826739	.	-	0	ID=cds_MAL13P1.107-1;Name=cds;description=.;size=4461;Parent=rna_MAL13P1.107-1
+psu|Pf3D7_13	EuPathDB	exon	822279	826739	.	-	.	ID=exon_MAL13P1.107-1;Name=exon;description=exon;size=4461;Parent=rna_MAL13P1.107-1
+psu|Pf3D7_13	EuPathDB	gene	68587	69514	.	-	.	ID=psu|MAL13P1.11;Name=MAL13P1.11;description=Plasmodium+exported+protein+%28PHISTa%29%2C+unknown+function;size=928;web_id=MAL13P1.11;locus_tag=MAL13P1.11;size=928;Alias=MAL13P1.11a
+psu|Pf3D7_13	EuPathDB	mRNA	68587	69514	.	-	.	ID=rna_MAL13P1.11-1;Name=MAL13P1.11-1;description=Plasmodium+exported+protein+%28PHISTa%29%2C+unknown+function;size=928;Parent=psu|MAL13P1.11;Ontology_term=GO:0042777,GO:0005886,GO:0016021,GO:0016469,GO:0045261,GO:0005524,GO:0008553,GO:0046933,GO:0046961;Dbxref=EuPathDB_PlasmoDB:MAL13P1.11,taxon:36329
+psu|Pf3D7_13	EuPathDB	CDS	69383	69514	.	-	0	ID=cds_MAL13P1.11-1;Name=cds;description=.;size=132;Parent=rna_MAL13P1.11-1
+psu|Pf3D7_13	EuPathDB	CDS	68587	69288	.	-	0	ID=cds_MAL13P1.11-1;Name=cds;description=.;size=702;Parent=rna_MAL13P1.11-1
+psu|Pf3D7_13	EuPathDB	exon	69383	69514	.	-	.	ID=exon_MAL13P1.11-1;Name=exon;description=exon;size=132;Parent=rna_MAL13P1.11-1
+psu|Pf3D7_13	EuPathDB	exon	68587	69288	.	-	.	ID=exon_MAL13P1.11-2;Name=exon;description=exon;size=702;Parent=rna_MAL13P1.11-1
+psu|Pf3D7_13	EuPathDB	gene	834381	835509	.	-	.	ID=psu|MAL13P1.111;Name=MAL13P1.111;description=ATP-dependent+Clp+protease+adaptor+protein+ClpS%2C+putative;size=1129;web_id=MAL13P1.111;locus_tag=MAL13P1.111;size=1129
+psu|Pf3D7_13	EuPathDB	mRNA	834381	835509	.	-	.	ID=rna_MAL13P1.111-1;Name=MAL13P1.111-1;description=ATP-dependent+Clp+protease+adaptor+protein+ClpS%2C+putative;size=1129;Parent=psu|MAL13P1.111;Ontology_term=GO:0030163;Dbxref=EuPathDB_PlasmoDB:MAL13P1.111,EC:3.4.21.92,NCBI_gi:124513168,NCBI_gi:23615357,taxon:36329
+psu|Pf3D7_13	EuPathDB	CDS	835336	835509	.	-	0	ID=cds_MAL13P1.111-1;Name=cds;description=.;size=174;Parent=rna_MAL13P1.111-1
+psu|Pf3D7_13	EuPathDB	CDS	835040	835107	.	-	0	ID=cds_MAL13P1.111-1;Name=cds;description=.;size=68;Parent=rna_MAL13P1.111-1
+psu|Pf3D7_13	EuPathDB	CDS	834788	834907	.	-	1	ID=cds_MAL13P1.111-1;Name=cds;description=.;size=120;Parent=rna_MAL13P1.111-1
+psu|Pf3D7_13	EuPathDB	CDS	834554	834699	.	-	1	ID=cds_MAL13P1.111-1;Name=cds;description=.;size=146;Parent=rna_MAL13P1.111-1
+psu|Pf3D7_13	EuPathDB	CDS	834381	834451	.	-	2	ID=cds_MAL13P1.111-1;Name=cds;description=.;size=71;Parent=rna_MAL13P1.111-1
+psu|Pf3D7_13	EuPathDB	exon	835336	835509	.	-	.	ID=exon_MAL13P1.111-1;Name=exon;description=exon;size=174;Parent=rna_MAL13P1.111-1
+psu|Pf3D7_13	EuPathDB	exon	835040	835107	.	-	.	ID=exon_MAL13P1.111-2;Name=exon;description=exon;size=68;Parent=rna_MAL13P1.111-1
+psu|Pf3D7_13	EuPathDB	exon	834788	834907	.	-	.	ID=exon_MAL13P1.111-3;Name=exon;description=exon;size=120;Parent=rna_MAL13P1.111-1
+psu|Pf3D7_13	EuPathDB	exon	834554	834699	.	-	.	ID=exon_MAL13P1.111-4;Name=exon;description=exon;size=146;Parent=rna_MAL13P1.111-1
+psu|Pf3D7_13	EuPathDB	exon	834381	834451	.	-	.	ID=exon_MAL13P1.111-5;Name=exon;description=exon;size=71;Parent=rna_MAL13P1.111-1
+psu|Pf3D7_13	EuPathDB	gene	839049	841166	.	-	.	ID=psu|MAL13P1.112;Name=MAL13P1.112;description=conserved+Plasmodium+protein%2C+unknown+function;size=2118;web_id=MAL13P1.112;locus_tag=MAL13P1.112;size=2118
+psu|Pf3D7_13	EuPathDB	mRNA	839049	841166	.	-	.	ID=rna_MAL13P1.112-1;Name=MAL13P1.112-1;description=conserved+Plasmodium+protein%2C+unknown+function;size=2118;Parent=psu|MAL13P1.112;Ontology_term=GO:0006310,GO:0006508,GO:0015074,GO:0032196,GO:0005634,GO:0005737,GO:0000287,GO:0003677,GO:0003723,GO:0003887,GO:0004190,GO:0004523,GO:0005524,GO:0008233,GO:0008270,GO:0016779;Dbxref=EuPathDB_PlasmoDB:MAL13P1.112,NCBI_gi:225631963,NCBI_gi:296005397,taxon:36329
+psu|Pf3D7_13	EuPathDB	CDS	839049	841166	.	-	0	ID=cds_MAL13P1.112-1;Name=cds;description=.;size=2118;Parent=rna_MAL13P1.112-1
+psu|Pf3D7_13	EuPathDB	exon	839049	841166	.	-	.	ID=exon_MAL13P1.112-1;Name=exon;description=exon;size=2118;Parent=rna_MAL13P1.112-1
+psu|Pf3D7_13	EuPathDB	gene	843840	845312	.	+	.	ID=psu|MAL13P1.113;Name=MAL13P1.113;description=SNARE+protein%2C+putative;size=1473;web_id=MAL13P1.113;locus_tag=MAL13P1.113;size=1473;Alias=PfSNAP23
+psu|Pf3D7_13	EuPathDB	mRNA	843840	845312	.	+	.	ID=rna_MAL13P1.113-1;Name=MAL13P1.113-1;description=SNARE+protein%2C+putative;size=1473;Parent=psu|MAL13P1.113;Ontology_term=GO:0006886,GO:0016192,GO:0031338,GO:0031201,GO:0005484,GO:0005515;Dbxref=EuPathDB_PlasmoDB:MAL13P1.113,NCBI_gi:225631964,NCBI_gi:296005399,taxon:36329
+psu|Pf3D7_13	EuPathDB	CDS	843840	843887	.	+	0	ID=cds_MAL13P1.113-1;Name=cds;description=.;size=48;Parent=rna_MAL13P1.113-1
+psu|Pf3D7_13	EuPathDB	CDS	844166	844280	.	+	0	ID=cds_MAL13P1.113-1;Name=cds;description=.;size=115;Parent=rna_MAL13P1.113-1
+psu|Pf3D7_13	EuPathDB	CDS	844531	844797	.	+	2	ID=cds_MAL13P1.113-1;Name=cds;description=.;size=267;Parent=rna_MAL13P1.113-1
+psu|Pf3D7_13	EuPathDB	CDS	844875	844930	.	+	2	ID=cds_MAL13P1.113-1;Name=cds;description=.;size=56;Parent=rna_MAL13P1.113-1
+psu|Pf3D7_13	EuPathDB	CDS	845051	845113	.	+	0	ID=cds_MAL13P1.113-1;Name=cds;description=.;size=63;Parent=rna_MAL13P1.113-1
+psu|Pf3D7_13	EuPathDB	CDS	845226	845312	.	+	0	ID=cds_MAL13P1.113-1;Name=cds;description=.;size=87;Parent=rna_MAL13P1.113-1
+psu|Pf3D7_13	EuPathDB	exon	843840	843887	.	+	.	ID=exon_MAL13P1.113-1;Name=exon;description=exon;size=48;Parent=rna_MAL13P1.113-1
+psu|Pf3D7_13	EuPathDB	exon	844166	844280	.	+	.	ID=exon_MAL13P1.113-2;Name=exon;description=exon;size=115;Parent=rna_MAL13P1.113-1
+psu|Pf3D7_13	EuPathDB	exon	844531	844797	.	+	.	ID=exon_MAL13P1.113-3;Name=exon;description=exon;size=267;Parent=rna_MAL13P1.113-1
+psu|Pf3D7_13	EuPathDB	exon	844875	844930	.	+	.	ID=exon_MAL13P1.113-4;Name=exon;description=exon;size=56;Parent=rna_MAL13P1.113-1
+psu|Pf3D7_13	EuPathDB	exon	845051	845113	.	+	.	ID=exon_MAL13P1.113-5;Name=exon;description=exon;size=63;Parent=rna_MAL13P1.113-1
+psu|Pf3D7_13	EuPathDB	exon	845226	845312	.	+	.	ID=exon_MAL13P1.113-6;Name=exon;description=exon;size=87;Parent=rna_MAL13P1.113-1
+psu|Pf3D7_13	EuPathDB	gene	861643	872533	.	-	.	ID=psu|MAL13P1.114;Name=MAL13P1.114;description=conserved+Plasmodium+protein%2C+unknown+function;size=10891;web_id=MAL13P1.114;locus_tag=MAL13P1.114;size=10891
+psu|Pf3D7_13	EuPathDB	mRNA	861643	872533	.	-	.	ID=rna_MAL13P1.114-1;Name=MAL13P1.114-1;description=conserved+Plasmodium+protein%2C+unknown+function;size=10891;Parent=psu|MAL13P1.114;Ontology_term=GO:0006468,GO:0016020,GO:0020011,GO:0004672,GO:0005524;Dbxref=EuPathDB_PlasmoDB:MAL13P1.114,NCBI_gi:225631966,NCBI_gi:296005403,taxon:36329
+psu|Pf3D7_13	EuPathDB	CDS	871375	872533	.	-	0	ID=cds_MAL13P1.114-1;Name=cds;description=.;size=1159;Parent=rna_MAL13P1.114-1
+psu|Pf3D7_13	EuPathDB	CDS	862459	871097	.	-	2	ID=cds_MAL13P1.114-1;Name=cds;description=.;size=8639;Parent=rna_MAL13P1.114-1
+psu|Pf3D7_13	EuPathDB	CDS	861874	862347	.	-	0	ID=cds_MAL13P1.114-1;Name=cds;description=.;size=474;Parent=rna_MAL13P1.114-1
+psu|Pf3D7_13	EuPathDB	CDS	861643	861714	.	-	0	ID=cds_MAL13P1.114-1;Name=cds;description=.;size=72;Parent=rna_MAL13P1.114-1
+psu|Pf3D7_13	EuPathDB	exon	871375	872533	.	-	.	ID=exon_MAL13P1.114-1;Name=exon;description=exon;size=1159;Parent=rna_MAL13P1.114-1
+psu|Pf3D7_13	EuPathDB	exon	862459	871097	.	-	.	ID=exon_MAL13P1.114-2;Name=exon;description=exon;size=8639;Parent=rna_MAL13P1.114-1
+psu|Pf3D7_13	EuPathDB	exon	861874	862347	.	-	.	ID=exon_MAL13P1.114-3;Name=exon;description=exon;size=474;Parent=rna_MAL13P1.114-1
+psu|Pf3D7_13	EuPathDB	exon	861643	861714	.	-	.	ID=exon_MAL13P1.114-4;Name=exon;description=exon;size=72;Parent=rna_MAL13P1.114-1
+psu|Pf3D7_13	EuPathDB	gene	875466	876048	.	+	.	ID=psu|MAL13P1.115;Name=MAL13P1.115;description=conserved+protein%2C+unknown+function;size=583;web_id=MAL13P1.115;locus_tag=MAL13P1.115;size=583
+psu|Pf3D7_13	EuPathDB	mRNA	875466	876048	.	+	.	ID=rna_MAL13P1.115-1;Name=MAL13P1.115-1;description=conserved+protein%2C+unknown+function;size=583;Parent=psu|MAL13P1.115;Ontology_term=GO:0005634,GO:0008270;Dbxref=EuPathDB_PlasmoDB:MAL13P1.115,NCBI_gi:124513190,NCBI_gi:23615368,taxon:36329
+psu|Pf3D7_13	EuPathDB	CDS	875466	875489	.	+	0	ID=cds_MAL13P1.115-1;Name=cds;description=.;size=24;Parent=rna_MAL13P1.115-1
+psu|Pf3D7_13	EuPathDB	CDS	875656	875751	.	+	0	ID=cds_MAL13P1.115-1;Name=cds;description=.;size=96;Parent=rna_MAL13P1.115-1
+psu|Pf3D7_13	EuPathDB	CDS	875932	876048	.	+	0	ID=cds_MAL13P1.115-1;Name=cds;description=.;size=117;Parent=rna_MAL13P1.115-1
+psu|Pf3D7_13	EuPathDB	exon	875466	875489	.	+	.	ID=exon_MAL13P1.115-1;Name=exon;description=exon;size=24;Parent=rna_MAL13P1.115-1
+psu|Pf3D7_13	EuPathDB	exon	875656	875751	.	+	.	ID=exon_MAL13P1.115-2;Name=exon;description=exon;size=96;Parent=rna_MAL13P1.115-1
+psu|Pf3D7_13	EuPathDB	exon	875932	876048	.	+	.	ID=exon_MAL13P1.115-3;Name=exon;description=exon;size=117;Parent=rna_MAL13P1.115-1
+psu|Pf3D7_13	EuPathDB	gene	876422	886465	.	-	.	ID=psu|MAL13P1.116;Name=MAL13P1.116;description=conserved+Plasmodium+membrane+protein%2C+unknown+function;size=10044;web_id=MAL13P1.116;locus_tag=MAL13P1.116;size=10044
+psu|Pf3D7_13	EuPathDB	mRNA	876422	886465	.	-	.	ID=rna_MAL13P1.116-1;Name=MAL13P1.116-1;description=conserved+Plasmodium+membrane+protein%2C+unknown+function;size=10044;Parent=psu|MAL13P1.116;Dbxref=EuPathDB_PlasmoDB:MAL13P1.116,NCBI_gi:124513192,NCBI_gi:23615369,taxon:36329
+psu|Pf3D7_13	EuPathDB	CDS	876422	886465	.	-	0	ID=cds_MAL13P1.116-1;Name=cds;description=.;size=10044;Parent=rna_MAL13P1.116-1
+psu|Pf3D7_13	EuPathDB	exon	876422	886465	.	-	.	ID=exon_MAL13P1.116-1;Name=exon;description=exon;size=10044;Parent=rna_MAL13P1.116-1
+psu|Pf3D7_13	EuPathDB	gene	887472	889900	.	+	.	ID=psu|MAL13P1.117;Name=MAL13P1.117;description=DHHC-type+zinc+finger+protein%2C+putative;size=2429;web_id=MAL13P1.117;locus_tag=MAL13P1.117;size=2429
+psu|Pf3D7_13	EuPathDB	mRNA	887472	889900	.	+	.	ID=rna_MAL13P1.117-1;Name=MAL13P1.117-1;description=DHHC-type+zinc+finger+protein%2C+putative;size=2429;Parent=psu|MAL13P1.117;Ontology_term=GO:0008270;Dbxref=EuPathDB_PlasmoDB:MAL13P1.117,NCBI_gi:124513194,NCBI_gi:23615370,taxon:36329
+psu|Pf3D7_13	EuPathDB	CDS	887472	887523	.	+	0	ID=cds_MAL13P1.117-1;Name=cds;description=.;size=52;Parent=rna_MAL13P1.117-1
+psu|Pf3D7_13	EuPathDB	CDS	887676	887796	.	+	2	ID=cds_MAL13P1.117-1;Name=cds;description=.;size=121;Parent=rna_MAL13P1.117-1
+psu|Pf3D7_13	EuPathDB	CDS	888031	888144	.	+	1	ID=cds_MAL13P1.117-1;Name=cds;description=.;size=114;Parent=rna_MAL13P1.117-1
+psu|Pf3D7_13	EuPathDB	CDS	888254	888300	.	+	1	ID=cds_MAL13P1.117-1;Name=cds;description=.;size=47;Parent=rna_MAL13P1.117-1
+psu|Pf3D7_13	EuPathDB	CDS	888389	888442	.	+	2	ID=cds_MAL13P1.117-1;Name=cds;description=.;size=54;Parent=rna_MAL13P1.117-1
+psu|Pf3D7_13	EuPathDB	CDS	888549	888636	.	+	2	ID=cds_MAL13P1.117-1;Name=cds;description=.;size=88;Parent=rna_MAL13P1.117-1
+psu|Pf3D7_13	EuPathDB	CDS	888732	888840	.	+	1	ID=cds_MAL13P1.117-1;Name=cds;description=.;size=109;Parent=rna_MAL13P1.117-1
+psu|Pf3D7_13	EuPathDB	CDS	888977	889050	.	+	0	ID=cds_MAL13P1.117-1;Name=cds;description=.;size=74;Parent=rna_MAL13P1.117-1
+psu|Pf3D7_13	EuPathDB	CDS	889248	889390	.	+	1	ID=cds_MAL13P1.117-1;Name=cds;description=.;size=143;Parent=rna_MAL13P1.117-1
+psu|Pf3D7_13	EuPathDB	CDS	889494	889542	.	+	2	ID=cds_MAL13P1.117-1;Name=cds;description=.;size=49;Parent=rna_MAL13P1.117-1
+psu|Pf3D7_13	EuPathDB	CDS	889632	889659	.	+	1	ID=cds_MAL13P1.117-1;Name=cds;description=.;size=28;Parent=rna_MAL13P1.117-1
+psu|Pf3D7_13	EuPathDB	CDS	889838	889900	.	+	0	ID=cds_MAL13P1.117-1;Name=cds;description=.;size=63;Parent=rna_MAL13P1.117-1
+psu|Pf3D7_13	EuPathDB	exon	887472	887523	.	+	.	ID=exon_MAL13P1.117-1;Name=exon;description=exon;size=52;Parent=rna_MAL13P1.117-1
+psu|Pf3D7_13	EuPathDB	exon	887676	887796	.	+	.	ID=exon_MAL13P1.117-2;Name=exon;description=exon;size=121;Parent=rna_MAL13P1.117-1
+psu|Pf3D7_13	EuPathDB	exon	888031	888144	.	+	.	ID=exon_MAL13P1.117-3;Name=exon;description=exon;size=114;Parent=rna_MAL13P1.117-1
+psu|Pf3D7_13	EuPathDB	exon	888254	888300	.	+	.	ID=exon_MAL13P1.117-4;Name=exon;description=exon;size=47;Parent=rna_MAL13P1.117-1
+psu|Pf3D7_13	EuPathDB	exon	888389	888442	.	+	.	ID=exon_MAL13P1.117-5;Name=exon;description=exon;size=54;Parent=rna_MAL13P1.117-1
+psu|Pf3D7_13	EuPathDB	exon	888549	888636	.	+	.	ID=exon_MAL13P1.117-6;Name=exon;description=exon;size=88;Parent=rna_MAL13P1.117-1
+psu|Pf3D7_13	EuPathDB	exon	888732	888840	.	+	.	ID=exon_MAL13P1.117-7;Name=exon;description=exon;size=109;Parent=rna_MAL13P1.117-1
+psu|Pf3D7_13	EuPathDB	exon	888977	889050	.	+	.	ID=exon_MAL13P1.117-8;Name=exon;description=exon;size=74;Parent=rna_MAL13P1.117-1
+psu|Pf3D7_13	EuPathDB	exon	889248	889390	.	+	.	ID=exon_MAL13P1.117-9;Name=exon;description=exon;size=143;Parent=rna_MAL13P1.117-1
+psu|Pf3D7_13	EuPathDB	exon	889494	889542	.	+	.	ID=exon_MAL13P1.117-10;Name=exon;description=exon;size=49;Parent=rna_MAL13P1.117-1
+psu|Pf3D7_13	EuPathDB	exon	889632	889659	.	+	.	ID=exon_MAL13P1.117-11;Name=exon;description=exon;size=28;Parent=rna_MAL13P1.117-1
+psu|Pf3D7_13	EuPathDB	exon	889838	889900	.	+	.	ID=exon_MAL13P1.117-12;Name=exon;description=exon;size=63;Parent=rna_MAL13P1.117-1
+psu|Pf3D7_13	EuPathDB	gene	890307	894983	.	-	.	ID=psu|MAL13P1.118;Name=MAL13P1.118;description=3%27%2C5%27-cyclic+nucleotide+phosphodiesterase%2C+putative;size=4677;web_id=MAL13P1.118;locus_tag=MAL13P1.118;size=4677
+psu|Pf3D7_13	EuPathDB	mRNA	890307	894983	.	-	.	ID=rna_MAL13P1.118-1;Name=MAL13P1.118-1;description=3%27%2C5%27-cyclic+nucleotide+phosphodiesterase%2C+putative;size=4677;Parent=psu|MAL13P1.118;Ontology_term=GO:0007165,GO:0003824,GO:0004117;Dbxref=EuPathDB_PlasmoDB:MAL13P1.118,EC:3.1.4.17,NCBI_gi:124513196,NCBI_gi:152968486,NCBI_gi:23615371,taxon:36329
+psu|Pf3D7_13	EuPathDB	CDS	893305	894983	.	-	0	ID=cds_MAL13P1.118-1;Name=cds;description=.;size=1679;Parent=rna_MAL13P1.118-1
+psu|Pf3D7_13	EuPathDB	CDS	893075	893179	.	-	1	ID=cds_MAL13P1.118-1;Name=cds;description=.;size=105;Parent=rna_MAL13P1.118-1
+psu|Pf3D7_13	EuPathDB	CDS	892819	892918	.	-	1	ID=cds_MAL13P1.118-1;Name=cds;description=.;size=100;Parent=rna_MAL13P1.118-1
+psu|Pf3D7_13	EuPathDB	CDS	892454	892558	.	-	0	ID=cds_MAL13P1.118-1;Name=cds;description=.;size=105;Parent=rna_MAL13P1.118-1
+psu|Pf3D7_13	EuPathDB	CDS	892156	892317	.	-	0	ID=cds_MAL13P1.118-1;Name=cds;description=.;size=162;Parent=rna_MAL13P1.118-1
+psu|Pf3D7_13	EuPathDB	CDS	891528	891938	.	-	0	ID=cds_MAL13P1.118-1;Name=cds;description=.;size=411;Parent=rna_MAL13P1.118-1
+psu|Pf3D7_13	EuPathDB	CDS	891097	891360	.	-	0	ID=cds_MAL13P1.118-1;Name=cds;description=.;size=264;Parent=rna_MAL13P1.118-1
+psu|Pf3D7_13	EuPathDB	CDS	890588	890991	.	-	0	ID=cds_MAL13P1.118-1;Name=cds;description=.;size=404;Parent=rna_MAL13P1.118-1
+psu|Pf3D7_13	EuPathDB	CDS	890307	890496	.	-	1	ID=cds_MAL13P1.118-1;Name=cds;description=.;size=190;Parent=rna_MAL13P1.118-1
+psu|Pf3D7_13	EuPathDB	exon	893305	894983	.	-	.	ID=exon_MAL13P1.118-1;Name=exon;description=exon;size=1679;Parent=rna_MAL13P1.118-1
+psu|Pf3D7_13	EuPathDB	exon	893075	893179	.	-	.	ID=exon_MAL13P1.118-2;Name=exon;description=exon;size=105;Parent=rna_MAL13P1.118-1
+psu|Pf3D7_13	EuPathDB	exon	892819	892918	.	-	.	ID=exon_MAL13P1.118-3;Name=exon;description=exon;size=100;Parent=rna_MAL13P1.118-1
+psu|Pf3D7_13	EuPathDB	exon	892454	892558	.	-	.	ID=exon_MAL13P1.118-4;Name=exon;description=exon;size=105;Parent=rna_MAL13P1.118-1
+psu|Pf3D7_13	EuPathDB	exon	892156	892317	.	-	.	ID=exon_MAL13P1.118-5;Name=exon;description=exon;size=162;Parent=rna_MAL13P1.118-1
+psu|Pf3D7_13	EuPathDB	exon	891528	891938	.	-	.	ID=exon_MAL13P1.118-6;Name=exon;description=exon;size=411;Parent=rna_MAL13P1.118-1
+psu|Pf3D7_13	EuPathDB	exon	891097	891360	.	-	.	ID=exon_MAL13P1.118-7;Name=exon;description=exon;size=264;Parent=rna_MAL13P1.118-1
+psu|Pf3D7_13	EuPathDB	exon	890588	890991	.	-	.	ID=exon_MAL13P1.118-8;Name=exon;description=exon;size=404;Parent=rna_MAL13P1.118-1
+psu|Pf3D7_13	EuPathDB	exon	890307	890496	.	-	.	ID=exon_MAL13P1.118-9;Name=exon;description=exon;size=190;Parent=rna_MAL13P1.118-1
+psu|Pf3D7_13	EuPathDB	gene	897917	901245	.	+	.	ID=psu|MAL13P1.119;Name=MAL13P1.119;description=phosphodiesterase+gamma%2C+putative;size=3329;web_id=MAL13P1.119;locus_tag=MAL13P1.119;size=3329;Alias=PDEgamma,PfPDEgamma;current=false
+psu|Pf3D7_13	EuPathDB	mRNA	897917	901245	.	+	.	ID=rna_MAL13P1.119-1;Name=MAL13P1.119-1;description=phosphodiesterase+gamma%2C+putative;size=3329;Parent=psu|MAL13P1.119;Ontology_term=GO:0007165,GO:0003824,GO:0004117;Dbxref=EuPathDB_PlasmoDB:MAL13P1.119,EC:3.1.4.17,NCBI_gi:152968488,NCBI_gi:225631967,NCBI_gi:296005405,taxon:36329
+psu|Pf3D7_13	EuPathDB	CDS	897917	898178	.	+	0	ID=cds_MAL13P1.119-1;Name=cds;description=.;size=262;Parent=rna_MAL13P1.119-1
+psu|Pf3D7_13	EuPathDB	CDS	898292	898440	.	+	2	ID=cds_MAL13P1.119-1;Name=cds;description=.;size=149;Parent=rna_MAL13P1.119-1
+psu|Pf3D7_13	EuPathDB	CDS	898559	898740	.	+	0	ID=cds_MAL13P1.119-1;Name=cds;description=.;size=182;Parent=rna_MAL13P1.119-1
+psu|Pf3D7_13	EuPathDB	CDS	898890	898994	.	+	1	ID=cds_MAL13P1.119-1;Name=cds;description=.;size=105;Parent=rna_MAL13P1.119-1
+psu|Pf3D7_13	EuPathDB	CDS	899127	899328	.	+	1	ID=cds_MAL13P1.119-1;Name=cds;description=.;size=202;Parent=rna_MAL13P1.119-1
+psu|Pf3D7_13	EuPathDB	CDS	899408	899545	.	+	0	ID=cds_MAL13P1.119-1;Name=cds;description=.;size=138;Parent=rna_MAL13P1.119-1
+psu|Pf3D7_13	EuPathDB	CDS	899711	899941	.	+	0	ID=cds_MAL13P1.119-1;Name=cds;description=.;size=231;Parent=rna_MAL13P1.119-1
+psu|Pf3D7_13	EuPathDB	CDS	900060	900275	.	+	0	ID=cds_MAL13P1.119-1;Name=cds;description=.;size=216;Parent=rna_MAL13P1.119-1
+psu|Pf3D7_13	EuPathDB	CDS	900421	901245	.	+	0	ID=cds_MAL13P1.119-1;Name=cds;description=.;size=825;Parent=rna_MAL13P1.119-1
+psu|Pf3D7_13	EuPathDB	exon	897917	898178	.	+	.	ID=exon_MAL13P1.119-1;Name=exon;description=exon;size=262;Parent=rna_MAL13P1.119-1
+psu|Pf3D7_13	EuPathDB	exon	898292	898440	.	+	.	ID=exon_MAL13P1.119-2;Name=exon;description=exon;size=149;Parent=rna_MAL13P1.119-1
+psu|Pf3D7_13	EuPathDB	exon	898559	898740	.	+	.	ID=exon_MAL13P1.119-3;Name=exon;description=exon;size=182;Parent=rna_MAL13P1.119-1
+psu|Pf3D7_13	EuPathDB	exon	898890	898994	.	+	.	ID=exon_MAL13P1.119-4;Name=exon;description=exon;size=105;Parent=rna_MAL13P1.119-1
+psu|Pf3D7_13	EuPathDB	exon	899127	899328	.	+	.	ID=exon_MAL13P1.119-5;Name=exon;description=exon;size=202;Parent=rna_MAL13P1.119-1
+psu|Pf3D7_13	EuPathDB	exon	899408	899545	.	+	.	ID=exon_MAL13P1.119-6;Name=exon;description=exon;size=138;Parent=rna_MAL13P1.119-1
+psu|Pf3D7_13	EuPathDB	exon	899711	899941	.	+	.	ID=exon_MAL13P1.119-7;Name=exon;description=exon;size=231;Parent=rna_MAL13P1.119-1
+psu|Pf3D7_13	EuPathDB	exon	900060	900275	.	+	.	ID=exon_MAL13P1.119-8;Name=exon;description=exon;size=216;Parent=rna_MAL13P1.119-1
+psu|Pf3D7_13	EuPathDB	exon	900421	901245	.	+	.	ID=exon_MAL13P1.119-9;Name=exon;description=exon;size=825;Parent=rna_MAL13P1.119-1
+psu|Pf3D7_13	EuPathDB	gene	129919	131288	.	-	.	ID=psu|MAL13P1.12;Name=MAL13P1.12;description=conserved+Plasmodium+membrane+protein%2C+unknown+function;size=1370;web_id=MAL13P1.12;locus_tag=MAL13P1.12;size=1370
+psu|Pf3D7_13	EuPathDB	mRNA	129919	131288	.	-	.	ID=rna_MAL13P1.12-1;Name=MAL13P1.12-1;description=conserved+Plasmodium+membrane+protein%2C+unknown+function;size=1370;Parent=psu|MAL13P1.12;Ontology_term=GO:0005783,GO:0016021;Dbxref=EuPathDB_PlasmoDB:MAL13P1.12,NCBI_gi:225631929,NCBI_gi:296005329,taxon:36329
+psu|Pf3D7_13	EuPathDB	CDS	131213	131288	.	-	0	ID=cds_MAL13P1.12-1;Name=cds;description=.;size=76;Parent=rna_MAL13P1.12-1
+psu|Pf3D7_13	EuPathDB	CDS	130891	130974	.	-	2	ID=cds_MAL13P1.12-1;Name=cds;description=.;size=84;Parent=rna_MAL13P1.12-1
+psu|Pf3D7_13	EuPathDB	CDS	130758	130786	.	-	2	ID=cds_MAL13P1.12-1;Name=cds;description=.;size=29;Parent=rna_MAL13P1.12-1
+psu|Pf3D7_13	EuPathDB	CDS	130616	130675	.	-	0	ID=cds_MAL13P1.12-1;Name=cds;description=.;size=60;Parent=rna_MAL13P1.12-1
+psu|Pf3D7_13	EuPathDB	CDS	130430	130492	.	-	0	ID=cds_MAL13P1.12-1;Name=cds;description=.;size=63;Parent=rna_MAL13P1.12-1
+psu|Pf3D7_13	EuPathDB	CDS	130232	130308	.	-	0	ID=cds_MAL13P1.12-1;Name=cds;description=.;size=77;Parent=rna_MAL13P1.12-1
+psu|Pf3D7_13	EuPathDB	CDS	130056	130101	.	-	1	ID=cds_MAL13P1.12-1;Name=cds;description=.;size=46;Parent=rna_MAL13P1.12-1
+psu|Pf3D7_13	EuPathDB	CDS	129919	129960	.	-	0	ID=cds_MAL13P1.12-1;Name=cds;description=.;size=42;Parent=rna_MAL13P1.12-1
+psu|Pf3D7_13	EuPathDB	exon	131213	131288	.	-	.	ID=exon_MAL13P1.12-1;Name=exon;description=exon;size=76;Parent=rna_MAL13P1.12-1
+psu|Pf3D7_13	EuPathDB	exon	130891	130974	.	-	.	ID=exon_MAL13P1.12-2;Name=exon;description=exon;size=84;Parent=rna_MAL13P1.12-1
+psu|Pf3D7_13	EuPathDB	exon	130758	130786	.	-	.	ID=exon_MAL13P1.12-3;Name=exon;description=exon;size=29;Parent=rna_MAL13P1.12-1
+psu|Pf3D7_13	EuPathDB	exon	130616	130675	.	-	.	ID=exon_MAL13P1.12-4;Name=exon;description=exon;size=60;Parent=rna_MAL13P1.12-1
+psu|Pf3D7_13	EuPathDB	exon	130430	130492	.	-	.	ID=exon_MAL13P1.12-5;Name=exon;description=exon;size=63;Parent=rna_MAL13P1.12-1
+psu|Pf3D7_13	EuPathDB	exon	130232	130308	.	-	.	ID=exon_MAL13P1.12-6;Name=exon;description=exon;size=77;Parent=rna_MAL13P1.12-1
+psu|Pf3D7_13	EuPathDB	exon	130056	130101	.	-	.	ID=exon_MAL13P1.12-7;Name=exon;description=exon;size=46;Parent=rna_MAL13P1.12-1
+psu|Pf3D7_13	EuPathDB	exon	129919	129960	.	-	.	ID=exon_MAL13P1.12-8;Name=exon;description=exon;size=42;Parent=rna_MAL13P1.12-1
+psu|Pf3D7_13	EuPathDB	gene	902584	905367	.	+	.	ID=psu|MAL13P1.120;Name=MAL13P1.120;description=splicing+factor%2C+putative;size=2784;web_id=MAL13P1.120;locus_tag=MAL13P1.120;size=2784
+psu|Pf3D7_13	EuPathDB	mRNA	902584	905367	.	+	.	ID=rna_MAL13P1.120-1;Name=MAL13P1.120-1;description=splicing+factor%2C+putative;size=2784;Parent=psu|MAL13P1.120;Ontology_term=GO:0000375,GO:0006397,GO:0008380,GO:0005634,GO:0003676,GO:0003723,GO:0003729;Dbxref=EuPathDB_PlasmoDB:MAL13P1.120,NCBI_gi:124513200,NCBI_gi:23615373,PDB:1D9A,taxon:36329
+psu|Pf3D7_13	EuPathDB	CDS	902584	904791	.	+	0	ID=cds_MAL13P1.120-1;Name=cds;description=.;size=2208;Parent=rna_MAL13P1.120-1
+psu|Pf3D7_13	EuPathDB	CDS	904981	905367	.	+	0	ID=cds_MAL13P1.120-1;Name=cds;description=.;size=387;Parent=rna_MAL13P1.120-1
+psu|Pf3D7_13	EuPathDB	exon	902584	904791	.	+	.	ID=exon_MAL13P1.120-1;Name=exon;description=exon;size=2208;Parent=rna_MAL13P1.120-1
+psu|Pf3D7_13	EuPathDB	exon	904981	905367	.	+	.	ID=exon_MAL13P1.120-2;Name=exon;description=exon;size=387;Parent=rna_MAL13P1.120-1
+psu|Pf3D7_13	EuPathDB	gene	916561	918795	.	+	.	ID=psu|MAL13P1.121;Name=MAL13P1.121;description=adenosine-diphosphatase%2C+putative;size=2235;web_id=MAL13P1.121;locus_tag=MAL13P1.121;size=2235
+psu|Pf3D7_13	EuPathDB	mRNA	916561	918795	.	+	.	ID=rna_MAL13P1.121-1;Name=MAL13P1.121-1;description=adenosine-diphosphatase%2C+putative;size=2235;Parent=psu|MAL13P1.121;Ontology_term=GO:0005788,GO:0016020,GO:0016787;Dbxref=EuPathDB_PlasmoDB:MAL13P1.121,EC:3.6.1.6,NCBI_gi:124513206,NCBI_gi:23615376,taxon:36329
+psu|Pf3D7_13	EuPathDB	CDS	916561	917907	.	+	0	ID=cds_MAL13P1.121-1;Name=cds;description=.;size=1347;Parent=rna_MAL13P1.121-1
+psu|Pf3D7_13	EuPathDB	CDS	918099	918256	.	+	0	ID=cds_MAL13P1.121-1;Name=cds;description=.;size=158;Parent=rna_MAL13P1.121-1
+psu|Pf3D7_13	EuPathDB	CDS	918432	918507	.	+	1	ID=cds_MAL13P1.121-1;Name=cds;description=.;size=76;Parent=rna_MAL13P1.121-1
+psu|Pf3D7_13	EuPathDB	CDS	918679	918795	.	+	0	ID=cds_MAL13P1.121-1;Name=cds;description=.;size=117;Parent=rna_MAL13P1.121-1
+psu|Pf3D7_13	EuPathDB	exon	916561	917907	.	+	.	ID=exon_MAL13P1.121-1;Name=exon;description=exon;size=1347;Parent=rna_MAL13P1.121-1
+psu|Pf3D7_13	EuPathDB	exon	918099	918256	.	+	.	ID=exon_MAL13P1.121-2;Name=exon;description=exon;size=158;Parent=rna_MAL13P1.121-1
+psu|Pf3D7_13	EuPathDB	exon	918432	918507	.	+	.	ID=exon_MAL13P1.121-3;Name=exon;description=exon;size=76;Parent=rna_MAL13P1.121-1
+psu|Pf3D7_13	EuPathDB	exon	918679	918795	.	+	.	ID=exon_MAL13P1.121-4;Name=exon;description=exon;size=117;Parent=rna_MAL13P1.121-1
+psu|Pf3D7_13	EuPathDB	gene	921172	929650	.	+	.	ID=psu|MAL13P1.122;Name=MAL13P1.122;description=SET+domain+protein%2C+putative;size=8479;web_id=MAL13P1.122;locus_tag=MAL13P1.122;size=8479;Alias=PfSET2;current=false,SET2
+psu|Pf3D7_13	EuPathDB	mRNA	921172	929650	.	+	.	ID=rna_MAL13P1.122-1;Name=MAL13P1.122-1;description=SET+domain+protein%2C+putative;size=8479;Parent=psu|MAL13P1.122;Ontology_term=GO:0005634,GO:0005515,GO:0008270,GO:0018024;Dbxref=EuPathDB_PlasmoDB:MAL13P1.122,EC:2.1.1.43,NCBI_gi:124513208,NCBI_gi:23615377,taxon:36329
+psu|Pf3D7_13	EuPathDB	CDS	921172	927537	.	+	0	ID=cds_MAL13P1.122-1;Name=cds;description=.;size=6366;Parent=rna_MAL13P1.122-1
+psu|Pf3D7_13	EuPathDB	CDS	927751	928103	.	+	0	ID=cds_MAL13P1.122-1;Name=cds;description=.;size=353;Parent=rna_MAL13P1.122-1
+psu|Pf3D7_13	EuPathDB	CDS	928293	928764	.	+	1	ID=cds_MAL13P1.122-1;Name=cds;description=.;size=472;Parent=rna_MAL13P1.122-1
+psu|Pf3D7_13	EuPathDB	CDS	928965	929045	.	+	0	ID=cds_MAL13P1.122-1;Name=cds;description=.;size=81;Parent=rna_MAL13P1.122-1
+psu|Pf3D7_13	EuPathDB	CDS	929276	929650	.	+	0	ID=cds_MAL13P1.122-1;Name=cds;description=.;size=375;Parent=rna_MAL13P1.122-1
+psu|Pf3D7_13	EuPathDB	exon	921172	927537	.	+	.	ID=exon_MAL13P1.122-1;Name=exon;description=exon;size=6366;Parent=rna_MAL13P1.122-1
+psu|Pf3D7_13	EuPathDB	exon	927751	928103	.	+	.	ID=exon_MAL13P1.122-2;Name=exon;description=exon;size=353;Parent=rna_MAL13P1.122-1
+psu|Pf3D7_13	EuPathDB	exon	928293	928764	.	+	.	ID=exon_MAL13P1.122-3;Name=exon;description=exon;size=472;Parent=rna_MAL13P1.122-1
+psu|Pf3D7_13	EuPathDB	exon	928965	929045	.	+	.	ID=exon_MAL13P1.122-4;Name=exon;description=exon;size=81;Parent=rna_MAL13P1.122-1
+psu|Pf3D7_13	EuPathDB	exon	929276	929650	.	+	.	ID=exon_MAL13P1.122-5;Name=exon;description=exon;size=375;Parent=rna_MAL13P1.122-1
+psu|Pf3D7_13	EuPathDB	gene	931515	943771	.	+	.	ID=psu|MAL13P1.124;Name=MAL13P1.124;description=conserved+Plasmodium+protein%2C+unknown+function;size=12257;web_id=MAL13P1.124;locus_tag=MAL13P1.124;size=12257
+psu|Pf3D7_13	EuPathDB	mRNA	931515	943771	.	+	.	ID=rna_MAL13P1.124-1;Name=MAL13P1.124-1;description=conserved+Plasmodium+protein%2C+unknown+function;size=12257;Parent=psu|MAL13P1.124;Ontology_term=GO:0007049,GO:0007067,GO:0051301,GO:0005737,GO:0005813,GO:0005856,GO:0005874,GO:0005488,GO:0008017;Dbxref=EuPathDB_PlasmoDB:MAL13P1.124,NCBI_gi:225631968,NCBI_gi:296005407,taxon:36329
+psu|Pf3D7_13	EuPathDB	CDS	931515	936514	.	+	0	ID=cds_MAL13P1.124-1;Name=cds;description=.;size=5000;Parent=rna_MAL13P1.124-1
+psu|Pf3D7_13	EuPathDB	CDS	936720	937000	.	+	1	ID=cds_MAL13P1.124-1;Name=cds;description=.;size=281;Parent=rna_MAL13P1.124-1
+psu|Pf3D7_13	EuPathDB	CDS	937137	937233	.	+	2	ID=cds_MAL13P1.124-1;Name=cds;description=.;size=97;Parent=rna_MAL13P1.124-1
+psu|Pf3D7_13	EuPathDB	CDS	937389	937577	.	+	1	ID=cds_MAL13P1.124-1;Name=cds;description=.;size=189;Parent=rna_MAL13P1.124-1
+psu|Pf3D7_13	EuPathDB	CDS	937727	937827	.	+	1	ID=cds_MAL13P1.124-1;Name=cds;description=.;size=101;Parent=rna_MAL13P1.124-1
+psu|Pf3D7_13	EuPathDB	CDS	937956	937997	.	+	2	ID=cds_MAL13P1.124-1;Name=cds;description=.;size=42;Parent=rna_MAL13P1.124-1
+psu|Pf3D7_13	EuPathDB	CDS	938803	938892	.	+	2	ID=cds_MAL13P1.124-1;Name=cds;description=.;size=90;Parent=rna_MAL13P1.124-1
+psu|Pf3D7_13	EuPathDB	CDS	938971	939284	.	+	2	ID=cds_MAL13P1.124-1;Name=cds;description=.;size=314;Parent=rna_MAL13P1.124-1
+psu|Pf3D7_13	EuPathDB	CDS	939578	943771	.	+	0	ID=cds_MAL13P1.124-1;Name=cds;description=.;size=4194;Parent=rna_MAL13P1.124-1
+psu|Pf3D7_13	EuPathDB	exon	931515	936514	.	+	.	ID=exon_MAL13P1.124-1;Name=exon;description=exon;size=5000;Parent=rna_MAL13P1.124-1
+psu|Pf3D7_13	EuPathDB	exon	936720	937000	.	+	.	ID=exon_MAL13P1.124-2;Name=exon;description=exon;size=281;Parent=rna_MAL13P1.124-1
+psu|Pf3D7_13	EuPathDB	exon	937137	937233	.	+	.	ID=exon_MAL13P1.124-3;Name=exon;description=exon;size=97;Parent=rna_MAL13P1.124-1
+psu|Pf3D7_13	EuPathDB	exon	937389	937577	.	+	.	ID=exon_MAL13P1.124-4;Name=exon;description=exon;size=189;Parent=rna_MAL13P1.124-1
+psu|Pf3D7_13	EuPathDB	exon	937727	937827	.	+	.	ID=exon_MAL13P1.124-5;Name=exon;description=exon;size=101;Parent=rna_MAL13P1.124-1
+psu|Pf3D7_13	EuPathDB	exon	937956	937997	.	+	.	ID=exon_MAL13P1.124-6;Name=exon;description=exon;size=42;Parent=rna_MAL13P1.124-1
+psu|Pf3D7_13	EuPathDB	exon	938803	938892	.	+	.	ID=exon_MAL13P1.124-7;Name=exon;description=exon;size=90;Parent=rna_MAL13P1.124-1
+psu|Pf3D7_13	EuPathDB	exon	938971	939284	.	+	.	ID=exon_MAL13P1.124-8;Name=exon;description=exon;size=314;Parent=rna_MAL13P1.124-1
+psu|Pf3D7_13	EuPathDB	exon	939578	943771	.	+	.	ID=exon_MAL13P1.124-9;Name=exon;description=exon;size=4194;Parent=rna_MAL13P1.124-1
